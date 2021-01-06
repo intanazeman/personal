@@ -1,0 +1,66 @@
+body 
+	{	
+		background-color:#ffcdb4;
+	}
+
+p
+	{
+		font-family: 'Josefin Slab', serif;
+		color: #576675;
+		background-color:	#ffe7dc;
+		text-align:center;
+		font-size: 30px;
+		padding: 10px;
+	}
+
+h1 
+	{
+		font-family: 'Playfair Display', serif;
+		font-size: 50px;
+		color: 	#6897bb;
+		text-align: center;
+	}
+
+h2
+	{
+		background-color: #ffdac8;
+		font-family: 'Playfair Display', serif;
+		text-align: center;
+		font-size: 20px;
+		padding: 5px;
+		border-color: black;
+		border-radius: 30px;
+
+	}
+h3
+	{
+		background-color:#fff5ef;
+		font-family: 'Xanh Mono', monospace;
+		text-align:center;
+		font-size: 15px;
+		padding: 5px;
+		border-color: black;
+		border-radius: 20px;
+	}
+
+section 
+	{
+		border: 10px solid gray;
+		height: 800px;
+	}
+
+a:link, a:visited 
+	{
+		background-color: #fff5ef;
+		color: maroon;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		padding: 5px;
+	}
+
+a:hover, a:active
+	{
+		background-color: none;
+		color: gold;
+	}
